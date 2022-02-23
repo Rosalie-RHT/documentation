@@ -152,7 +152,7 @@ also be used for other lesser known providers.
 Use a default email address
 ===========================
 
-To force the email address from which emails are sent, you need to create the following key in
+A default email address from which emails are sent is created by the following key in
 the System Parameters of the database:
 
 - If ``mail.default.from`` is set, and contains a full email address, all outgoing emails are sent
